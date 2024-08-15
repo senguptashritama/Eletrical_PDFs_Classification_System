@@ -1,6 +1,5 @@
-/distilbert_model/
-/distilbert_tokenizer/
-/src/
-*.xlsx
-*.csv
-doctr_ocr_model.pkl
+models/distilbert_model/
+models/distilbert_tokenizer/
+/best_model/
+/best_tokenizer/
+/data/
