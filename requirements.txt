@@ -1,0 +1,12 @@
+git+https://github.com/mindee/doctr.git
+mplcursors
+tf2onnx
+torch
+torchvision
+joblib
+gensim
+numpy
+scikit-learn
+gdown
+streamlit
+

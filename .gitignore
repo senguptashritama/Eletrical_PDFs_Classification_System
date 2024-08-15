@@ -1,0 +1,6 @@
+/distilbert_model/
+/distilbert_tokenizer/
+/src/
+*.xlsx
+*.csv
+doctr_ocr_model.pkl
