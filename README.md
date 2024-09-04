@@ -1,7 +1,13 @@
-# Electrical PDFs Classification System
+# Electrical PDFs Classification System 
+[Link to App](https://parspecassignment.streamlit.app/)
+
 
 ## Project Overview
-The Electrical PDFs Classification System is a machine learning-powered solution for classifying electrical engineering documents. Given a PDF document, the system can automatically determine the document's category or classification.
+The Electrical PDFs Classification System is an advanced machine learning application designed to categorize electrical engineering documents automatically. Leveraging state-of-the-art models and a robust preprocessing pipeline, this system accurately classifies PDF documents by extracting and analyzing their textual content. The project employs a combination of traditional machine learning techniques, such as Support Vector Machines (SVM), and modern deep learning approaches, including DistilBERT, to deliver high-performance results.
+
+The system's architecture is built to handle large volumes of unstructured text data, efficiently converting them into meaningful insights. This solution is particularly useful for organizations or individuals needing to organize and manage large collections of technical documents. By automating the classification process, the Electrical PDFs Classification System saves time and reduces the potential for human error, making it a reliable tool for document management in the electrical engineering domain.
+
+## User Interface
 
 ## Data Preprocessing
 The data preprocessing steps are as follows:
@@ -39,8 +45,16 @@ The performance of the models was evaluated using the following metrics:
 - **Precision, Recall, and F1-score**: The classification reports for both models showed high scores for these metrics, indicating the models were able to accurately classify the documents across all classes.
 - **Cross-Validation**: The SVM model's cross-validation scores were consistent with the test set performance, further validating the model's robustness.
 
+## Application Overview
+The project also includes a Streamlit-based web application that allows users to classify PDF documents using the trained models. The app provides a user-friendly interface where users can input a PDF URL and choose between the SVM and DistilBERT models for classification.
+
+### App Features
+- **PDF Text Extraction**: The app uses the Doctr library to extract text from the provided PDF document.
+- **Model Selection**: Users can choose between the SVM and DistilBERT models for classification.
+- **Prediction Display**: The app displays the predicted document label along with the probability of the prediction.
+
 ## Conclusion
-The Electrical PDFs Classification System demonstrates the effective use of machine learning techniques to automate the classification of electrical engineering documents. The combination of data preprocessing, SVM modeling, and DistilBERT modeling resulted in a highly accurate and reliable system for classifying these types of documents.
+The Electrical PDFs Classification System exemplifies the successful deployment of machine learning models in a real-world scenario. It combines comprehensive data preprocessing, sophisticated model training, and a user-friendly deployment platform to deliver a high-performance solution for classifying electrical engineering documents. This project not only showcases the potential of AI in automating complex tasks but also sets a benchmark for future projects in the domain.
 
 
 
