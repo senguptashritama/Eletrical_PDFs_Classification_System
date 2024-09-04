@@ -1,6 +1,3 @@
-Here's your text in Markdown format:
-
-```markdown
 # Electrical PDFs Classification System
 
 ## Project Overview
@@ -44,7 +41,7 @@ The performance of the models was evaluated using the following metrics:
 
 ## Conclusion
 The Electrical PDFs Classification System demonstrates the effective use of machine learning techniques to automate the classification of electrical engineering documents. The combination of data preprocessing, SVM modeling, and DistilBERT modeling resulted in a highly accurate and reliable system for classifying these types of documents.
-```
+
 
 
 ![image](https://github.com/user-attachments/assets/57786672-65c0-44f8-a18a-8aa89f742b90)
