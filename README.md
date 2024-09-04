@@ -8,6 +8,8 @@ The Electrical PDFs Classification System is an advanced machine learning applic
 The system's architecture is built to handle large volumes of unstructured text data, efficiently converting them into meaningful insights. This solution is particularly useful for organizations or individuals needing to organize and manage large collections of technical documents. By automating the classification process, the Electrical PDFs Classification System saves time and reduces the potential for human error, making it a reliable tool for document management in the electrical engineering domain.
 
 ## User Interface
+![image](https://github.com/user-attachments/assets/06d23f06-8371-44c5-b6d3-c95ee237629e)
+
 
 ## Data Preprocessing
 The data preprocessing steps are as follows:
@@ -56,6 +58,3 @@ The project also includes a Streamlit-based web application that allows users to
 ## Conclusion
 The Electrical PDFs Classification System exemplifies the successful deployment of machine learning models in a real-world scenario. It combines comprehensive data preprocessing, sophisticated model training, and a user-friendly deployment platform to deliver a high-performance solution for classifying electrical engineering documents. This project not only showcases the potential of AI in automating complex tasks but also sets a benchmark for future projects in the domain.
 
-
-
-![image](https://github.com/user-attachments/assets/57786672-65c0-44f8-a18a-8aa89f742b90)
